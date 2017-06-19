@@ -10,7 +10,7 @@ do_with_root() {
         echo "Please run this script as root."
         exit 1
     fi
-
+}
 
 echo "Install dependancies"
 
